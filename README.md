@@ -2,7 +2,7 @@
 C++ Console based pac-man game.
 
 ## Setup
-You must have a C++ setup.
+You must have a C++ setup. If you have the setup then just run `pac_man.cpp` file.
 
 ## Contributing
 Contributions are welcome! To contribute:
